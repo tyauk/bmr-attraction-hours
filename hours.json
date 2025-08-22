@@ -1,0 +1,1276 @@
+[
+	{
+		"name": "Ridge Runner Mountain Coaster",
+		"start_date": "0627",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 9PM",
+			"tuesday": "9AM - 9PM",
+			"wednesday": "9AM - 9PM",
+			"thursday": "9AM - 9PM",
+			"friday": "9AM - 9PM",
+			"saturday": "9AM - 9PM",
+			"sunday": "9PM - 9PM"
+		}
+	},
+	
+	{
+		"name": "Ridge Runner Mountain Coaster",
+		"start_date": "0902",
+		"end_date": "1026",
+		"status": "open_daily",
+		"hours":{
+			"monday": "10AM - 8PM",
+			"tuesday": "10AM - 8PM",
+			"wednesday": "10AM - 8PM",
+			"thursday": "10AM - 8PM",
+			"friday": "10AM - 8PM",
+			"saturday": "10AM - 8PM",
+			"sunday": "10AM - 8PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"name": "Blue Mountain Private Beach",
+		"start_date": "0627",
+		"end_date": "0901",
+		"status": "open_daily",
+		"hours":{
+			"monday": "10AM - 5PM",
+			"tuesday": "10AM - 5PM",
+			"wednesday": "10AM - 5PM",
+			"thursday": "10AM - 5PM",
+			"friday": "10AM - 5PM",
+			"saturday": "10AM - 5PM",
+			"sunday": "10AM - 5PM"
+		}
+	},
+	
+	{
+		"name": "Blue Mountain Private Beach",
+		"start_date": "0627",
+		"status": "closed_for_the_season"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"name": "Open-Air Gondola",
+		"start_date": "0627",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 9PM",
+			"tuesday": "9AM - 9PM",
+			"wednesday": "9AM - 9PM",
+			"thursday": "9AM - 9PM",
+			"friday": "9AM - 9PM",
+			"saturday": "9AM - 9PM",
+			"sunday": "9PM - 9PM"
+		}
+	},
+	
+	{
+		"name": "Open-Air Gondola",
+		"start_date": "0902",
+		"end_date": "1026",
+		"status": "open_daily",
+		"hours":{
+			"monday": "10AM - 8PM",
+			"tuesday": "10AM - 8PM",
+			"wednesday": "10AM - 8PM",
+			"thursday": "10AM - 8PM",
+			"friday": "10AM - 8PM",
+			"saturday": "10AM - 8PM",
+			"sunday": "10AM - 8PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Plunge! Aquatic Centre",
+		"start_date": "0627",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 8PM",
+			"tuesday": "10AM - 8PM",
+			"wednesday": "10AM - 8PM",
+			"thursday": "10AM - 8PM",
+			"friday": "10AM - 8PM",
+			"saturday": "10AM - 8PM",
+			"sunday": "10AM - 8PM"
+		}
+	},
+	
+	{
+		"name": "Plunge! Aquatic Centre",
+		"start_date": "0902",
+		"end_date": "09-28",
+		"status": "open_daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "10AM - 5PM",
+			"saturday": "10AM - 5PM",
+			"sunday": "10AM - 5PM"
+		}
+	},
+	
+	{
+		"name": "Plunge! Aquatic Centre",
+		"start_date": "0929",
+		"end_date": "10-26",
+		"status": "closed_daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "CLOSED",
+			"saturday": "CLOSED",
+			"sunday": "CLOSED"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Canopy Climb Net Adventure",
+		"start_date": "0815",
+		"end_date": "0823",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Canopy Climb Net Adventure",
+		"start_date": "0824",
+		"end_date": "0828",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:30PM",
+			"tuesday": "9AM - 8:30PM",
+			"wednesday": "9AM - 8:30PM",
+			"thursday": "9AM - 8:30PM",
+			"friday": "9AM - 8:30PM",
+			"saturday": "9AM - 8:30PM",
+			"sunday": "9AM - 8:30PM"
+		}
+	},
+	
+	{
+		"name": "Canopy Climb Net Adventure",
+		"start_date": "0829",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 10PM",
+			"tuesday": "9AM - 10PM",
+			"wednesday": "9AM - 10PM",
+			"thursday": "9AM - 10PM",
+			"friday": "9AM - 10PM",
+			"saturday": "9AM - 10PM",
+			"sunday": "9AM - 10PM"
+		}
+	},
+	
+	{
+		"name": "Canopy Climb Net Adventure",
+		"start_date": "0902",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 10PM",
+			"tuesday": "10AM - 10PM",
+			"wednesday": "10AM - 10PM",
+			"thursday": "10AM - 10PM",
+			"friday": "10AM - 10PM",
+			"saturday": "10AM - 10PM",
+			"sunday": "10AM - 10PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Mill Pond Activity Centre",
+		"start_date": "0815",
+		"end_date": "0823",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Mill Pond Activity Centre",
+		"start_date": "0824",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:30PM",
+			"tuesday": "9AM - 8:30PM",
+			"wednesday": "9AM - 8:30PM",
+			"thursday": "9AM - 8:30PM",
+			"friday": "9AM - 8:30PM",
+			"saturday": "9AM - 8:30PM",
+			"sunday": "9AM - 8:30PM"
+		}
+	},
+	
+	{
+		"name": "Mill Pond Activity Centre",
+		"start_date": "0902",
+		"end_date": "0914",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7:30PM",
+			"tuesday": "10AM - 7:30PM",
+			"wednesday": "10AM - 7:30PM",
+			"thursday": "10AM - 7:30PM",
+			"friday": "10AM - 7:30PM",
+			"saturday": "10AM - 7:30PM",
+			"sunday": "10AM - 7:30PM"
+		}
+	},
+	
+	{
+		"name": "Mill Pond Activity Centre",
+		"start_date": "0915",
+		"end_date": "0928",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7PM",
+			"tuesday": "10AM - 7PM",
+			"wednesday": "10AM - 7PM",
+			"thursday": "10AM - 7PM",
+			"friday": "10AM - 7PM",
+			"saturday": "10AM - 7PM",
+			"sunday": "10AM - 7PM"
+		}
+	},
+	
+	{
+		"name": "Mill Pond Activity Centre",
+		"start_date": "0929",
+		"end_date": "1012",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6:30PM",
+			"tuesday": "10AM - 6:30PM",
+			"wednesday": "10AM - 6:30PM",
+			"thursday": "10AM - 6:30PM",
+			"friday": "10AM - 6:30PM",
+			"saturday": "10AM - 6:30PM",
+			"sunday": "10AM - 6:30PM"
+		}
+	},
+	
+	{
+		"name": "Mill Pond Activity Centre",
+		"start_date": "1014",
+		"end_date": "1017",
+		"days_open": "daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "CLOSED",
+			"saturday": "CLOSED",
+			"sunday": "CLOSED"
+		}
+	},
+	
+	{
+		"name": "Mill Pond Activity Centre",
+		"start_date": "1018",
+		"end_date": "1019",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6PM",
+			"tuesday": "10AM - 6PM",
+			"wednesday": "10AM - 6PM",
+			"thursday": "10AM - 6PM",
+			"friday": "10AM - 6PM",
+			"saturday": "10AM - 6PM",
+			"sunday": "10AM - 6PM"
+		}
+	},
+	
+	{
+		"name": "Mill Pond Activity Centre",
+		"start_date": "1020",
+		"days_open": "closed_for_the_season"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Wind Rider Triple Zips",
+		"start_date": "0815",
+		"end_date": "0823",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Wind Rider Triple Zips",
+		"start_date": "0824",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:30PM",
+			"tuesday": "9AM - 8:30PM",
+			"wednesday": "9AM - 8:30PM",
+			"thursday": "9AM - 8:30PM",
+			"friday": "9AM - 8:30PM",
+			"saturday": "9AM - 8:30PM",
+			"sunday": "9AM - 8:30PM"
+		}
+	},
+	
+	{
+		"name": "Wind Rider Triple Zips",
+		"start_date": "0902",
+		"end_date": "0914",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7:30PM",
+			"tuesday": "10AM - 7:30PM",
+			"wednesday": "10AM - 7:30PM",
+			"thursday": "10AM - 7:30PM",
+			"friday": "10AM - 7:30PM",
+			"saturday": "10AM - 7:30PM",
+			"sunday": "10AM - 7:30PM"
+		}
+	},
+	
+	{
+		"name": "Wind Rider Triple Zips",
+		"start_date": "0915",
+		"end_date": "0928",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7PM",
+			"tuesday": "10AM - 7PM",
+			"wednesday": "10AM - 7PM",
+			"thursday": "10AM - 7PM",
+			"friday": "10AM - 7PM",
+			"saturday": "10AM - 7PM",
+			"sunday": "10AM - 7PM"
+		}
+	},
+	
+	{
+		"name": "Wind Rider Triple Zips",
+		"start_date": "0929",
+		"end_date": "1012",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6:30PM",
+			"tuesday": "10AM - 6:30PM",
+			"wednesday": "10AM - 6:30PM",
+			"thursday": "10AM - 6:30PM",
+			"friday": "10AM - 6:30PM",
+			"saturday": "10AM - 6:30PM",
+			"sunday": "10AM - 6:30PM"
+		}
+	},
+	
+	{
+		"name": "Wind Rider Triple Zips",
+		"start_date": "1013",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6PM",
+			"tuesday": "10AM - 6PM",
+			"wednesday": "10AM - 6PM",
+			"thursday": "10AM - 6PM",
+			"friday": "10AM - 6PM",
+			"saturday": "10AM - 6PM",
+			"sunday": "10AM - 6PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Cocoon Crawl Playscape",
+		"start_date": "0815",
+		"end_date": "0823",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Cocoon Crawl Playscape",
+		"start_date": "0824",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:30PM",
+			"tuesday": "9AM - 8:30PM",
+			"wednesday": "9AM - 8:30PM",
+			"thursday": "9AM - 8:30PM",
+			"friday": "9AM - 8:30PM",
+			"saturday": "9AM - 8:30PM",
+			"sunday": "9AM - 8:30PM"
+		}
+	},
+	
+	{
+		"name": "Cocoon Crawl Playscape",
+		"start_date": "0902",
+		"end_date": "0914",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7:30PM",
+			"tuesday": "10AM - 7:30PM",
+			"wednesday": "10AM - 7:30PM",
+			"thursday": "10AM - 7:30PM",
+			"friday": "10AM - 7:30PM",
+			"saturday": "10AM - 7:30PM",
+			"sunday": "10AM - 7:30PM"
+		}
+	},
+	
+	{
+		"name": "Cocoon Crawl Playscape",
+		"start_date": "0915",
+		"end_date": "0928",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7PM",
+			"tuesday": "10AM - 7PM",
+			"wednesday": "10AM - 7PM",
+			"thursday": "10AM - 7PM",
+			"friday": "10AM - 7PM",
+			"saturday": "10AM - 7PM",
+			"sunday": "10AM - 7PM"
+		}
+	},
+	
+	{
+		"name": "Cocoon Crawl Playscape",
+		"start_date": "0929",
+		"end_date": "1012",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6:30PM",
+			"tuesday": "10AM - 6:30PM",
+			"wednesday": "10AM - 6:30PM",
+			"thursday": "10AM - 6:30PM",
+			"friday": "10AM - 6:30PM",
+			"saturday": "10AM - 6:30PM",
+			"sunday": "10AM - 6:30PM"
+		}
+	},
+	
+	{
+		"name": "Cocoon Crawl Playscape",
+		"start_date": "1013",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6PM",
+			"tuesday": "10AM - 6PM",
+			"wednesday": "10AM - 6PM",
+			"thursday": "10AM - 6PM",
+			"friday": "10AM - 6PM",
+			"saturday": "10AM - 6PM",
+			"sunday": "10AM - 6PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Chutes & Loops Ball Run",
+		"start_date": "0815",
+		"end_date": "0823",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Chutes & Loops Ball Run",
+		"start_date": "0824",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:30PM",
+			"tuesday": "9AM - 8:30PM",
+			"wednesday": "9AM - 8:30PM",
+			"thursday": "9AM - 8:30PM",
+			"friday": "9AM - 8:30PM",
+			"saturday": "9AM - 8:30PM",
+			"sunday": "9AM - 8:30PM"
+		}
+	},
+	
+	{
+		"name": "Chutes & Loops Ball Run",
+		"start_date": "0902",
+		"end_date": "0914",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7:30PM",
+			"tuesday": "10AM - 7:30PM",
+			"wednesday": "10AM - 7:30PM",
+			"thursday": "10AM - 7:30PM",
+			"friday": "10AM - 7:30PM",
+			"saturday": "10AM - 7:30PM",
+			"sunday": "10AM - 7:30PM"
+		}
+	},
+	
+	{
+		"name": "Chutes & Loops Ball Run",
+		"start_date": "0915",
+		"end_date": "0928",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7PM",
+			"tuesday": "10AM - 7PM",
+			"wednesday": "10AM - 7PM",
+			"thursday": "10AM - 7PM",
+			"friday": "10AM - 7PM",
+			"saturday": "10AM - 7PM",
+			"sunday": "10AM - 7PM"
+		}
+	},
+	
+	{
+		"name": "Chutes & Loops Ball Run",
+		"start_date": "0929",
+		"end_date": "1012",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6:30PM",
+			"tuesday": "10AM - 6:30PM",
+			"wednesday": "10AM - 6:30PM",
+			"thursday": "10AM - 6:30PM",
+			"friday": "10AM - 6:30PM",
+			"saturday": "10AM - 6:30PM",
+			"sunday": "10AM - 6:30PM"
+		}
+	},
+	
+	{
+		"name": "Chutes & Loops Ball Run",
+		"start_date": "1013",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6PM",
+			"tuesday": "10AM - 6PM",
+			"wednesday": "10AM - 6PM",
+			"thursday": "10AM - 6PM",
+			"friday": "10AM - 6PM",
+			"saturday": "10AM - 6PM",
+			"sunday": "10AM - 6PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Timber Challenge High Ropes",
+		"start_date": "0627",
+		"end_date": "0828",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8PM",
+			"tuesday": "9AM - 8PM",
+			"wednesday": "9AM - 8PM",
+			"thursday": "9AM - 8PM",
+			"friday": "9AM - 8PM",
+			"saturday": "9AM - 8PM",
+			"sunday": "9AM - 8PM"
+		}
+	},
+	
+	{
+		"name": "Timber Challenge High Ropes",
+		"start_date": "0829",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "12PM - 8PM",
+			"tuesday": "12PM - 8PM",
+			"wednesday": "12PM - 8PM",
+			"thursday": "12PM - 8PM",
+			"friday": "12PM - 8PM",
+			"saturday": "12PM - 8PM",
+			"sunday": "12PM - 8PM"
+		}
+	},
+	
+	{
+		"name": "Timber Challenge High Ropes",
+		"start_date": "0902",
+		"end_date": "0914",
+		"days_open": "daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "CLOSED",
+			"saturday": "10AM - 7:30PM",
+			"sunday": "10AM - 7:30PM"
+		}
+	},
+	
+	{
+		"name": "Timber Challenge High Ropes",
+		"start_date": "0915",
+		"end_date": "0928",
+		"days_open": "daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "CLOSED",
+			"saturday": "10AM - 7PM",
+			"sunday": "10AM - 7PM"
+		}
+	},
+	
+	{
+		"name": "Timber Challenge High Ropes",
+		"start_date": "0929",
+		"end_date": "1012",
+		"days_open": "daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "CLOSED",
+			"saturday": "10AM - 6:30PM",
+			"sunday": "10AM - 6:30PM"
+		}
+	},
+	
+	{
+		"name": "Timber Challenge High Ropes",
+		"start_date": "1013",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "CLOSED",
+			"saturday": "10AM - 6PM",
+			"sunday": "10AM - 6PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Lumber Lanes Climbing Centre",
+		"start_date": "0815",
+		"end_date": "0823",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Lumber Lanes Climbing Centre",
+		"start_date": "0824",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:30PM",
+			"tuesday": "9AM - 8:30PM",
+			"wednesday": "9AM - 8:30PM",
+			"thursday": "9AM - 8:30PM",
+			"friday": "9AM - 8:30PM",
+			"saturday": "9AM - 8:30PM",
+			"sunday": "9AM - 8:30PM"
+		}
+	},
+	
+	{
+		"name": "Lumber Lanes Climbing Centre",
+		"start_date": "0902",
+		"end_date": "0914",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7:30PM",
+			"tuesday": "10AM - 7:30PM",
+			"wednesday": "10AM - 7:30PM",
+			"thursday": "10AM - 7:30PM",
+			"friday": "10AM - 7:30PM",
+			"saturday": "10AM - 7:30PM",
+			"sunday": "10AM - 7:30PM"
+		}
+	},
+	
+	{
+		"name": "Lumber Lanes Climbing Centre",
+		"start_date": "0915",
+		"end_date": "0928",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7PM",
+			"tuesday": "10AM - 7PM",
+			"wednesday": "10AM - 7PM",
+			"thursday": "10AM - 7PM",
+			"friday": "10AM - 7PM",
+			"saturday": "10AM - 7PM",
+			"sunday": "10AM - 7PM"
+		}
+	},
+	
+	{
+		"name": "Lumber Lanes Climbing Centre",
+		"start_date": "0929",
+		"end_date": "1012",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6:30PM",
+			"tuesday": "10AM - 6:30PM",
+			"wednesday": "10AM - 6:30PM",
+			"thursday": "10AM - 6:30PM",
+			"friday": "10AM - 6:30PM",
+			"saturday": "10AM - 6:30PM",
+			"sunday": "10AM - 6:30PM"
+		}
+	},
+	
+	{
+		"name": "Lumber Lanes Climbing Centre",
+		"start_date": "1013",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6PM",
+			"tuesday": "10AM - 6PM",
+			"wednesday": "10AM - 6PM",
+			"thursday": "10AM - 6PM",
+			"friday": "10AM - 6PM",
+			"saturday": "10AM - 6PM",
+			"sunday": "10AM - 6PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "AGORA: Path of Light",
+		"start_date": "0627",
+		"end_date": "0829",
+		"days_open": "closed_daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "CLOSED",
+			"saturday": "CLOSED",
+			"sunday": "CLOSED"
+		}
+	},
+	
+	{
+		"name": "AGORA: Path of Light",
+		"start_date": "0830",
+		"end_date": "0901",
+		"days_open": "open_daily",
+		"hours":{
+			"monday": "8PM - 11PM",
+			"tuesday": "8PM - 11PM",
+			"wednesday": "8PM - 11PM",
+			"thursday": "8PM - 11PM",
+			"friday": "8PM - 11PM",
+			"saturday": "8PM - 11PM",
+			"sunday": "8PM - 11PM"
+		}
+	},
+	
+	{
+		"name": "AGORA: Path of Light",
+		"start_date": "0902",
+		"end_date": "1026",
+		"days_open": "open_daily",
+		"hours":{
+			"monday": "8PM - 10PM",
+			"tuesday": "8PM - 10PM",
+			"wednesday": "8PM - 10PM",
+			"thursday": "8PM - 10PM",
+			"friday": "8PM - 11PM",
+			"saturday": "8PM - 11PM",
+			"sunday": "8PM - 10PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Cascade Putting Course",
+		"start_date": "0627",
+		"end_date": "0901",
+		"days_open": "open_daily",
+		"hours":{
+			"monday": "9AM - 9PM",
+			"tuesday": "9AM - 9PM",
+			"wednesday": "9AM - 9PM",
+			"thursday": "9AM - 9PM",
+			"friday": "9AM - 9PM",
+			"saturday": "9AM - 9PM",
+			"sunday": "9AM - 9PM"
+		}
+	},
+	
+	{
+		"name": "Cascade Putting Course",
+		"start_date": "0902",
+		"end_date": "1026",
+		"days_open": "open_daily",
+		"hours":{
+			"monday": "10AM - 8PM",
+			"tuesday": "10AM - 8PM",
+			"wednesday": "10AM - 8PM",
+			"thursday": "10AM - 8PM",
+			"friday": "10AM - 8PM",
+			"saturday": "10AM - 8PM",
+			"sunday": "10AM - 8PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Skywalk Challenge High Ropes",
+		"start_date": "0815",
+		"end_date": "0823",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Skywalk Challenge High Ropes",
+		"start_date": "0824",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:30PM",
+			"tuesday": "9AM - 8:30PM",
+			"wednesday": "9AM - 8:30PM",
+			"thursday": "9AM - 8:30PM",
+			"friday": "9AM - 8:30PM",
+			"saturday": "9AM - 8:30PM",
+			"sunday": "9AM - 8:30PM"
+		}
+	},
+	
+	{
+		"name": "Skywalk Challenge High Ropes",
+		"start_date": "0902",
+		"end_date": "0914",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7:30PM",
+			"tuesday": "10AM - 7:30PM",
+			"wednesday": "10AM - 7:30PM",
+			"thursday": "10AM - 7:30PM",
+			"friday": "10AM - 7:30PM",
+			"saturday": "10AM - 7:30PM",
+			"sunday": "10AM - 7:30PM"
+		}
+	},
+	
+	{
+		"name": "Skywalk Challenge High Ropes",
+		"start_date": "0915",
+		"end_date": "0928",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 7PM",
+			"tuesday": "10AM - 7PM",
+			"wednesday": "10AM - 7PM",
+			"thursday": "10AM - 7PM",
+			"friday": "10AM - 7PM",
+			"saturday": "10AM - 7PM",
+			"sunday": "10AM - 7PM"
+		}
+	},
+	
+	{
+		"name": "Skywalk Challenge High Ropes",
+		"start_date": "0929",
+		"end_date": "1012",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6:30PM",
+			"tuesday": "10AM - 6:30PM",
+			"wednesday": "10AM - 6:30PM",
+			"thursday": "10AM - 6:30PM",
+			"friday": "10AM - 6:30PM",
+			"saturday": "10AM - 6:30PM",
+			"sunday": "10AM - 6:30PM"
+		}
+	},
+	
+	{
+		"name": "Skywalk Challenge High Ropes",
+		"start_date": "1013",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 6PM",
+			"tuesday": "10AM - 6PM",
+			"wednesday": "10AM - 6PM",
+			"thursday": "10AM - 6PM",
+			"friday": "10AM - 6PM",
+			"saturday": "10AM - 6PM",
+			"sunday": "10AM - 6PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Hiking",
+		"start_date": "0627",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Hiking",
+		"start_date": "0902",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 8PM",
+			"tuesday": "10AM - 8PM",
+			"wednesday": "10AM - 8PM",
+			"thursday": "10AM - 8PM",
+			"friday": "10AM - 8PM",
+			"saturday": "10AM - 8PM",
+			"sunday": "10AM - 8PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Biking",
+		"start_date": "0627",
+		"end_date": "0901",
+		"days_open": "daily",
+		"hours":{
+			"monday": "9AM - 8:45PM",
+			"tuesday": "9AM - 8:45PM",
+			"wednesday": "9AM - 8:45PM",
+			"thursday": "9AM - 8:45PM",
+			"friday": "9AM - 8:45PM",
+			"saturday": "9AM - 8:45PM",
+			"sunday": "9AM - 8:45PM"
+		}
+	},
+	
+	{
+		"name": "Biking",
+		"start_date": "0902",
+		"end_date": "1026",
+		"days_open": "daily",
+		"hours":{
+			"monday": "10AM - 8PM",
+			"tuesday": "10AM - 8PM",
+			"wednesday": "10AM - 8PM",
+			"thursday": "10AM - 8PM",
+			"friday": "10AM - 8PM",
+			"saturday": "10AM - 8PM",
+			"sunday": "10AM - 8PM"
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	{
+		"name": "Monterra Golf",
+		"start_date": "0601",
+		"end_date": "0901",
+		"days_open": "open_daily",
+		"hours":{
+			"monday": "7AM - 6PM",
+			"tuesday": "7AM - 6PM",
+			"wednesday": "7AM - 6PM",
+			"thursday": "7AM - 6PM",
+			"friday": "7AM - 6PM",
+			"saturday": "7AM - 6PM",
+			"sunday": "7AM - 6PM"
+		}
+	},
+	
+	{
+		"name": "Monterra Golf",
+		"start_date": "0902",
+		"end_date": "0904",
+		"days_open": "closed_daily",
+		"hours":{
+			"monday": "CLOSED",
+			"tuesday": "CLOSED",
+			"wednesday": "CLOSED",
+			"thursday": "CLOSED",
+			"friday": "CLOSED",
+			"saturday": "CLOSED",
+			"sunday": "CLOSED"
+		}
+	},
+	
+	{
+		"name": "Monterra Golf",
+		"start_date": "0905",
+		"end_date": "0914",
+		"days_open": "open_daily",
+		"hours":{
+			"monday": "8AM - 5PM",
+			"tuesday": "8AM - 5PM",
+			"wednesday": "8AM - 5PM",
+			"thursday": "8AM - 5PM",
+			"friday": "8AM - 5PM",
+			"saturday": "8AM - 5PM",
+			"sunday": "8AM - 5PM"
+		}
+	},
+	
+	{
+		"name": "Monterra Golf",
+		"start_date": "0915",
+		"end_date": "0930",
+		"days_open": "open_daily",
+		"hours":{
+			"monday": "8:30AM - 5PM",
+			"tuesday": "8:30AM - 5PM",
+			"wednesday": "8:30AM - 5PM",
+			"thursday": "8:30AM - 5PM",
+			"friday": "8:30AM - 5PM",
+			"saturday": "8:30AM - 5PM",
+			"sunday": "8:30AM - 5PM"
+		}
+	},
+	
+	{
+		"name": "Monterra Golf",
+		"start_date": "1001",
+		"end_date": "1101",
+		"days_open": "open_daily",
+		"hours":{
+			"monday": "9AM - 4:30PM",
+			"tuesday": "9AM - 4:30PM",
+			"wednesday": "9AM - 4:30PM",
+			"thursday": "9AM - 4:30PM",
+			"friday": "9AM - 4:30PM",
+			"saturday": "9AM - 4:30PM",
+			"sunday": "9AM - 4:30PM"
+		}
+	}	
+
+]
