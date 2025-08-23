@@ -133,7 +133,7 @@
 		{
 			"name": "Plunge! Aquatic Centre",
 			"start_date": "0902",
-			"end_date": "09-28",
+			"end_date": "0928",
 			"status": "open_daily",
 			"hours":{
 				"monday": "CLOSED",
@@ -149,7 +149,7 @@
 		{
 			"name": "Plunge! Aquatic Centre",
 			"start_date": "0929",
-			"end_date": "10-26",
+			"end_date": "1026",
 			"status": "closed_daily",
 			"hours":{
 				"monday": "CLOSED",
