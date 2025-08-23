@@ -60,7 +60,17 @@
 		{
 			"name": "Blue Mountain Private Beach",
 			"start_date": "0627",
+			"end_date": "0930",
 			"status": "closed_for_the_season"
+			"hours":{
+				"monday": "Closed for the Season",
+				"tuesday": "Closed for the Season",
+				"wednesday": "Closed for the Season",
+				"thursday": "Closed for the Season",
+				"friday": "Closed for the Season",
+				"saturday": "Closed for the Season",
+				"sunday": "Closed for the Season"
+			}
 		},
 		
 		
