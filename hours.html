@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hours | Blue Mountain Resort</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.typekit.net/tng8uyh.css">
+  </head>
+  <body>
+    
+    <style>
+
+      @font-face {
+        font-family: 'berlingske';
+        src: url('BerlingskeSerifTx-Black.woff2') format('woff2');
+      }
+
+      @font-face{
+        font-family: "brandon-grotesque", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      body{
+        background: rgb(244,244,244);
+      }
+
+      h1{
+        font-family: 'berlingske';
+        line-height:1;
+        text-align: left;
+      }
+
+      .hrcss{
+        display:inline-block;
+        padding:40px 40px;
+        width:100%;
+        max-width:360px;
+        font-weight:bold;
+        font-size:1.3em;
+        line-height:1.3;
+      }
+
+      @media screen and (min-width: 769px){
+        h1{
+          font-size:4.3em;
+        }
+      }
+
+      @media screen and (max-width: 768px){
+        h1{
+          font-size:3em;
+        }
+      }
+
+      .submit-button{
+        font-family:'brandon-grotesque';
+        text-transform: uppercase;
+        background: #0076a2;
+        color: #fff;
+        font-size:1.1em;
+        padding:8px 18px;
+        border:none;
+      }
+
+      .submit-button:hover{
+        background: rgb(38,91,127);
+      }
+
+      #hours-section{
+        display:none;
+      }
+
+      #hours-date{
+        color:#0076a2;
+        font-family: 'berlingske';
+      }
+
+      .bmr-dropdown{
+        display:inline-block;
+        font-size:1.2em;
+        font-weight:bold;
+        padding:5px;
+        background: #fff;
+        border: solid 2px #0076a2;
+        color: #0076a2;
+        cursor: pointer;
+        transition: 0.3s;
+      }
+
+      .bmr-dropdown:hover{
+        background: #0076a2;
+        border: solid 2px #0076a2;
+        color: #fff;
+      }
+
+    </style>
+
+    <div style="display:block;width:100%;text-align: center;">
+
+      <div style="display:inline-block;width:85%;max-width:1220px;padding:50px 0px">
+        <h1>Hours of Operation</h1>
+      </div>
+
+      <div style="display:inline-block;width:85%;max-width:1220px;padding:50px;background:#fff">
+        <h3><b>Select the day you want to see hours for</b></h3>
+
+        <form action="javascript:loadHours()" method="post">
+          <select id="month" name="selected_month" class="bmr-dropdown">
+            <option value="08" selected>August</option>
+            <option value="09">September</option>
+            <option value="10">October</option>
+          </select>
+          <select id="day" name="selected_day" class="bmr-dropdown">
+            <option value="01">1</option>
+            <option value="02">2</option>
+            <option value="03">3</option>
+            <option value="04">4</option>
+            <option value="05">5</option>
+            <option value="06">6</option>
+            <option value="07">7</option>
+            <option value="08">8</option>
+            <option value="09">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14">14</option>
+            <option value="15">15</option>
+            <option value="16">16</option>
+            <option value="17">17</option>
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+            <option value="21">21</option>
+            <option value="22">22</option>
+            <option value="23">23</option>
+            <option value="24">24</option>
+            <option value="25" selected>25</option>
+            <option value="26">26</option>
+            <option value="27">27</option>
+            <option value="28">28</option>
+            <option value="29">29</option>
+            <option value="30">30</option>
+            <option value="31">31</option>
+          </select>
+          <br>
+          <input type="submit" value="Submit" class="submit-button" style="position:relative;top:15px">
+        </form>
+
+      </div>
+
+      <div style="display:block;padding:25px 0px"></div>
+
+      <div style="width:85%;max-width:1220px;padding:50px;background:#fff" id="hours-section">
+        <h2 id="hours-date">Hours For</h2>
+        <section id="hours_content">
+        </section>
+      </div>
+
+      <div style="display:block;padding:50px 0px"></div>
+
+    </div>
+
+    <script>
+
+      var day = "18";
+      var month = "10";
+
+      var months = [ "January", "February", "March", "April", "May", "June", 
+           "July", "August", "September", "October", "November", "December" ];
+
+      var selectedMonthName = months[month - 1];
+
+      var date_2 = new Date(selectedMonthName + " " + day + ", 2025");
+
+      var day_of_the_week = date_2.getDay();
+
+      var date = month + day;
+      var dateValue = Number(date);
+
+      function loadHours(){
+
+        month = document.getElementById("month").value;
+        day = document.getElementById("day").value;
+
+        selectedMonthName = months[month - 1];
+
+        date_2 = new Date(selectedMonthName + " " + day + ", 2025");
+
+        day_of_the_week = date_2.getDay();
+
+        date = month + day;
+        dateValue = Number(date);
+
+        document.getElementById("hours_content").innerHTML = "";
+        document.getElementById("hours-date").innerHTML = "Hours For " + (selectedMonthName + " " + day + ", 2025");
+        document.getElementById("hours-section").style.display = "inline-block";
+
+        populate();
+      }
+
+      async function populate(){
+        const requestURL = "https://raw.githubusercontent.com/tyauk/bmr-attraction-hours/refs/heads/main/hours.json";
+        const request = new Request(requestURL);
+
+        const response = await fetch(request);
+        const activities = await response.json();
+
+        const activitiesList = activities.activities;
+
+        populateHours(activitiesList);
+
+      }
+
+      function populateHours(obj){
+
+        const section = document.querySelector("section");
+        const myArticle = document.createElement("article");
+        const currentHours = document.createElement("p");
+
+        for(i = 0;i < obj.length;i++){
+
+          const startDate = Number(obj[i].start_date);
+          const endDate = Number(obj[i].end_date);
+
+          const hourList = ["Hours"];
+
+          const currentHour = "10AM";
+
+          if(dateValue >= startDate && dateValue <= endDate){
+            if(day_of_the_week == 0){
+              const newParagraph = document.createElement('span');
+              newParagraph.innerHTML = "<span class='hrcss'><span style='font-size:0.8em'>" + (obj[i].name) + "</span><br>" + (obj[i].hours.saturday) + "</span>";
+              document.querySelector("section").appendChild(newParagraph);
+            }else if(day_of_the_week == 1){
+              const newParagraph = document.createElement('span');
+              newParagraph.innerHTML = "<span class='hrcss'><span style='font-size:0.8em'>" + (obj[i].name) + "</span><br>" + (obj[i].hours.saturday) + "</span>";
+              document.querySelector("section").appendChild(newParagraph);
+            }else if(day_of_the_week == 2){
+              const newParagraph = document.createElement('span');
+              newParagraph.innerHTML = "<span class='hrcss'><span style='font-size:0.8em'>" + (obj[i].name) + "</span><br>" + (obj[i].hours.saturday) + "</span>";
+              document.querySelector("section").appendChild(newParagraph);
+            }else if(day_of_the_week == 3){
+              const newParagraph = document.createElement('span');
+              newParagraph.innerHTML = "<span class='hrcss'><span style='font-size:0.8em'>" + (obj[i].name) + "</span><br>" + (obj[i].hours.saturday) + "</span>";
+              document.querySelector("section").appendChild(newParagraph);
+            }else if(day_of_the_week == 4){
+              const newParagraph = document.createElement('span');
+              newParagraph.innerHTML = "<span class='hrcss'><span style='font-size:0.8em'>" + (obj[i].name) + "</span><br>" + (obj[i].hours.saturday) + "</span>";
+              document.querySelector("section").appendChild(newParagraph);
+            }else if(day_of_the_week == 5){
+              const newParagraph = document.createElement('span');
+              newParagraph.innerHTML = "<span class='hrcss'><span style='font-size:0.8em'>" + (obj[i].name) + "</span><br>" + (obj[i].hours.saturday) + "</span>";
+              document.querySelector("section").appendChild(newParagraph);
+            }else if(day_of_the_week == 6){
+              const newParagraph = document.createElement('span');
+              newParagraph.innerHTML = "<span class='hrcss'><span style='font-size:0.8em'>" + (obj[i].name) + "</span><br>" + (obj[i].hours.saturday) + "</span>";
+              document.querySelector("section").appendChild(newParagraph);
+            }
+          }
+
+          //console.log(hourList);
+          //myArticle.appendChild(currentHours);
+          //section.appendChild(myArticle);
+
+        }
+      }
+
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
