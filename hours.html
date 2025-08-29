@@ -26,12 +26,6 @@
         background: rgb(244,244,244);
       }
 
-      h1{
-        font-family: 'berlingske';
-        line-height:1;
-        text-align: left;
-      }
-
       .hrcss{
         display:inline-block;
         padding:40px 40px;
@@ -97,18 +91,14 @@
 
     </style>
 
-    <div style="display:block;width:100%;text-align: center;">
-
-      <div style="display:inline-block;width:85%;max-width:1220px;padding:50px 0px">
-        <h1>Hours of Operation</h1>
-      </div>
+    <div style="display:block;width:100%;text-align: center;padding:50px 0px">
 
       <div style="display:inline-block;width:85%;max-width:1220px;padding:50px;background:#fff">
         <h3><b>Select the day you want to see hours for</b></h3>
 
         <form action="javascript:loadHours()" method="post">
           <select id="month" name="selected_month" class="bmr-dropdown">
-            <option value="08" selected>August</option>
+            <option value="08">August</option>
             <option value="09">September</option>
             <option value="10">October</option>
           </select>
@@ -137,7 +127,7 @@
             <option value="22">22</option>
             <option value="23">23</option>
             <option value="24">24</option>
-            <option value="25" selected>25</option>
+            <option value="25">25</option>
             <option value="26">26</option>
             <option value="27">27</option>
             <option value="28">28</option>
@@ -164,6 +154,33 @@
     </div>
 
     <script>
+
+      var today = new Date();
+
+      var dd = String(today.getDate()).padStart(2, '0');
+      var mm = String(today.getMonth() + 1).padStart(2, '0');
+
+      console.log("Today's Date: "+mm+"/"+dd+"/2025");
+
+      var selectDay = document.getElementById('day');
+      var selectMonth = document.getElementById('month');
+      var option;
+
+      for (var i=0; i<selectDay.options.length; i++){
+        option = selectDay.options[i];
+
+        if(option.value == dd) {
+          selectDay.options[i].setAttribute('selected', true);
+        }
+      }
+
+      for (var i=0; i<selectMonth.options.length; i++){
+        option = selectMonth.options[i];
+
+        if(option.value == mm) {
+          selectMonth.options[i].setAttribute('selected', true);
+        }
+      }
 
       var day = "18";
       var month = "10";
