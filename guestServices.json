@@ -1,0 +1,23 @@
+{
+	"guest_services": [
+		
+		{
+			"name": "Activity Central",
+			"start_date": "0902",
+			"end_date": "1026",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"hours":{
+				"monday": "9:30AM - 9PM",
+				"tuesday": "9:30AM - 9PM",
+				"wednesday": "9:30AM - 9PM",
+				"thursday": "9:30AM - 9PM",
+				"friday": "9:30AM - 9PM",
+				"saturday": "9:30AM - 9PM",
+				"sunday": "9:30AM - 9PM"
+			}
+		}
+
+	]
+
+}
