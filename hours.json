@@ -910,7 +910,7 @@
 			"start_date": "0627",
 			"end_date": "0901",
 			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/417e0d1c463e41f381fa76cd34818298?v=11f58c48",
 			"hours":{
 				"monday": "9AM - 8:45PM",
 				"tuesday": "9AM - 8:45PM",
@@ -927,7 +927,7 @@
 			"start_date": "0902",
 			"end_date": "1026",
 			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/417e0d1c463e41f381fa76cd34818298?v=11f58c48",
 			"hours":{
 				"monday": "10AM - 8PM",
 				"tuesday": "10AM - 8PM",
@@ -954,7 +954,7 @@
 			"start_date": "0627",
 			"end_date": "0901",
 			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/781186339e8140bcb4d2fa4a067cb71d?v=13d1d5cf",
 			"hours":{
 				"monday": "9AM - 8:45PM",
 				"tuesday": "9AM - 8:45PM",
@@ -971,7 +971,7 @@
 			"start_date": "0902",
 			"end_date": "1026",
 			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/781186339e8140bcb4d2fa4a067cb71d?v=13d1d5cf",
 			"hours":{
 				"monday": "10AM - 8PM",
 				"tuesday": "10AM - 8PM",
@@ -992,47 +992,14 @@
 		
 		
 		
-	
-		{
-			"name": "Monterra Golf",
-			"start_date": "0601",
-			"end_date": "0901",
-			"days_open": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
-			"hours":{
-				"monday": "7AM - 6PM",
-				"tuesday": "7AM - 6PM",
-				"wednesday": "7AM - 6PM",
-				"thursday": "7AM - 6PM",
-				"friday": "7AM - 6PM",
-				"saturday": "7AM - 6PM",
-				"sunday": "7AM - 6PM"
-			}
-		},
-		
-		{
-			"name": "Monterra Golf",
-			"start_date": "0902",
-			"end_date": "0904",
-			"days_open": "closed_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
-			"hours":{
-				"monday": "CLOSED",
-				"tuesday": "CLOSED",
-				"wednesday": "CLOSED",
-				"thursday": "CLOSED",
-				"friday": "CLOSED",
-				"saturday": "CLOSED",
-				"sunday": "CLOSED"
-			}
-		},
+
 		
 		{
 			"name": "Monterra Golf",
 			"start_date": "0905",
 			"end_date": "0914",
 			"days_open": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/17de0a46de264bd9974a5073fea1ba1d?v=02708236",
 			"hours":{
 				"monday": "8AM - 5PM",
 				"tuesday": "8AM - 5PM",
@@ -1049,7 +1016,7 @@
 			"start_date": "0915",
 			"end_date": "0930",
 			"days_open": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/17de0a46de264bd9974a5073fea1ba1d?v=02708236",
 			"hours":{
 				"monday": "8:30AM - 5PM",
 				"tuesday": "8:30AM - 5PM",
@@ -1066,7 +1033,7 @@
 			"start_date": "1001",
 			"end_date": "1101",
 			"days_open": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/17de0a46de264bd9974a5073fea1ba1d?v=02708236",
 			"hours":{
 				"monday": "9AM - 4:30PM",
 				"tuesday": "9AM - 4:30PM",
