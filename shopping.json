@@ -1,0 +1,74 @@
+{
+	"dining": [
+		
+		{
+			"name": "Red Devil Sports",
+			"start_date": "0902",
+			"end_date": "1026",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/8128f349a0da4564b59e5ce5b34d3a96?v=b4f31e52",
+			"hours":{
+				"monday": "10AM - 6PM",
+				"tuesday": "10AM - 6PM",
+				"wednesday": "10AM - 6PM",
+				"thursday": "10AM - 6PM",
+				"friday": "10AM - 6PM",
+				"saturday": "10AM - 6PM",
+				"sunday": "10AM - 6PM"
+			}
+		},
+
+		{
+			"name": "Burton",
+			"start_date": "0902",
+			"end_date": "1026",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/318ec4d7aac44d95bc88356cf1086058?v=a34bf1e4",
+			"hours":{
+				"monday": "10AM - 7PM",
+				"tuesday": "10AM - 7PM",
+				"wednesday": "10AM - 7PM",
+				"thursday": "10AM - 7PM",
+				"friday": "10AM - 7PM",
+				"saturday": "10AM - 7PM",
+				"sunday": "10AM - 7PM"
+			}
+		},
+
+		{
+			"name": "Blue Mountain Supply Co.",
+			"start_date": "0902",
+			"end_date": "1026",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/065fc08f4f92449e9562a6f37f6b09d3?v=55947751",
+			"hours":{
+				"monday": "10AM - 6PM",
+				"tuesday": "10AM - 6PM",
+				"wednesday": "10AM - 6PM",
+				"thursday": "10AM - 6PM",
+				"friday": "10AM - 6PM",
+				"saturday": "10AM - 6PM",
+				"sunday": "10AM - 6PM"
+			}
+		},
+
+		{
+			"name": "The North Face",
+			"start_date": "0902",
+			"end_date": "1026",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/a6509243097741718426514ceb99184d?v=37a2cafe",
+			"hours":{
+				"monday": "10AM - 7PM",
+				"tuesday": "10AM - 7PM",
+				"wednesday": "10AM - 7PM",
+				"thursday": "10AM - 7PM",
+				"friday": "10AM - 7PM",
+				"saturday": "10AM - 7PM",
+				"sunday": "10AM - 7PM"
+			}
+		}
+
+	]
+
+}
