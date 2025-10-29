@@ -3,44 +3,44 @@
 		
 		{
 			"name": "Ridge Runner Mountain Coaster",
-			"start_date": "0902",
-			"end_date": "1026",
+			"start_date": "1027",
+			"end_date": "1109",
 			"status": "open_daily",
 			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
 			"page_url": "https://www.bluemountain.ca/things-to-do/activities/ridge-runner-coaster",
 			"hours":{
-				"monday": "10AM - 8PM",
-				"tuesday": "10AM - 8PM",
-				"wednesday": "10AM - 8PM",
-				"thursday": "10AM - 8PM",
-				"friday": "10AM - 8PM",
-				"saturday": "10AM - 8PM",
-				"sunday": "10AM - 8PM"
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "CLOSED",
+				"saturday": "10AM - 6PM",
+				"sunday": "10AM - 6PM"
 			}
 		},
-		
+
 		{
-			"name": "Open-Air Gondola",
-			"start_date": "0902",
-			"end_date": "1026",
+			"name": "Ridge Runner Mountain Coaster",
+			"start_date": "1110",
+			"end_date": "1201",
 			"status": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/8e765540feeb41438c8d617ddbfcae2f?v=b3f47a81",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/open-air-gondola",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/ridge-runner-coaster",
 			"hours":{
-				"monday": "10AM - 8PM",
-				"tuesday": "10AM - 8PM",
-				"wednesday": "10AM - 8PM",
-				"thursday": "10AM - 8PM",
-				"friday": "10AM - 8PM",
-				"saturday": "10AM - 8PM",
-				"sunday": "10AM - 8PM"
+				"monday": "10AM - 6PM",
+				"tuesday": "10AM - 6PM",
+				"wednesday": "10AM - 6PM",
+				"thursday": "10AM - 6PM",
+				"friday": "10AM - 6PM",
+				"saturday": "10AM - 6PM",
+				"sunday": "10AM - 6PM"
 			}
 		},
 		
 		{
 			"name": "Plunge! Aquatic Centre",
-			"start_date": "0929",
-			"end_date": "1026",
+			"start_date": "1027",
+			"end_date": "1031",
 			"status": "closed_daily",
 			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/1570a708b8e9482f9e44384deba64f7e?v=edbf03b9",
 			"page_url": "https://www.bluemountain.ca/things-to-do/activities/plunge-aquatic-centre",
@@ -54,69 +54,33 @@
 				"sunday": "CLOSED"
 			}
 		},
+
+		{
+			"name": "Plunge! Aquatic Centre",
+			"start_date": "1101",
+			"end_date": "1215",
+			"status": "closed_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/1570a708b8e9482f9e44384deba64f7e?v=edbf03b9",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/plunge-aquatic-centre",
+			"hours":{
+				"monday": "CLOSED",
+				"tuesday": "CLOSED",
+				"wednesday": "CLOSED",
+				"thursday": "CLOSED",
+				"friday": "10AM - 6PM",
+				"saturday": "10AM - 6PM",
+				"sunday": "10AM - 6PM"
+			}
+		},
 		
 		{
 			"name": "Canopy Climb Net Adventure",
-			"start_date": "0902",
-			"end_date": "1026",
+			"start_date": "1027",
+			"end_date": "1201",
 			"days_open": "daily",
 			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/58bfaf76ac33401ca19305b83149e33d?v=1dea87fa",
 			"page_url": "https://www.bluemountain.ca/things-to-do/activities/canopy-climb",
 			"hours":{
-				"monday": "10AM - 10PM",
-				"tuesday": "10AM - 10PM",
-				"wednesday": "10AM - 10PM",
-				"thursday": "10AM - 10PM",
-				"friday": "10AM - 10PM",
-				"saturday": "10AM - 10PM",
-				"sunday": "10AM - 10PM"
-			}
-		},
-		
-		{
-			"name": "Mill Pond Activity Centre",
-			"start_date": "0929",
-			"end_date": "1012",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/65cafbb4906d4be5adbcaaf61bb94c6d?v=612c8d23",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/mill-pond-activity-centre",
-			"hours":{
-				"monday": "10AM - 6:30PM",
-				"tuesday": "10AM - 6:30PM",
-				"wednesday": "10AM - 6:30PM",
-				"thursday": "10AM - 6:30PM",
-				"friday": "10AM - 6:30PM",
-				"saturday": "10AM - 6:30PM",
-				"sunday": "10AM - 6:30PM"
-			}
-		},
-		
-		{
-			"name": "Mill Pond Activity Centre",
-			"start_date": "1014",
-			"end_date": "1017",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/65cafbb4906d4be5adbcaaf61bb94c6d?v=612c8d23",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/mill-pond-activity-centre",
-			"hours":{
-				"monday": "CLOSED",
-				"tuesday": "CLOSED",
-				"wednesday": "CLOSED",
-				"thursday": "CLOSED",
-				"friday": "CLOSED",
-				"saturday": "CLOSED",
-				"sunday": "CLOSED"
-			}
-		},
-		
-		{
-			"name": "Mill Pond Activity Centre",
-			"start_date": "1018",
-			"end_date": "1019",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/65cafbb4906d4be5adbcaaf61bb94c6d?v=612c8d23",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/mill-pond-activity-centre",
-			"hours":{
 				"monday": "10AM - 6PM",
 				"tuesday": "10AM - 6PM",
 				"wednesday": "10AM - 6PM",
@@ -126,327 +90,15 @@
 				"sunday": "10AM - 6PM"
 			}
 		},
-		
-		{
-			"name": "Mill Pond Activity Centre",
-			"start_date": "1020",
-			"days_open": "closed_for_the_season",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/mill-pond-activity-centre",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/65cafbb4906d4be5adbcaaf61bb94c6d?v=612c8d23"
-		},
-		
-		{
-			"name": "Wind Rider Triple Zips",
-			"start_date": "0929",
-			"end_date": "1012",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/d826e31c65a042b7a83cff516360f7b6?v=43198b45",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/wind-rider-triple-zips",
-			"hours":{
-				"monday": "10AM - 6:30PM",
-				"tuesday": "10AM - 6:30PM",
-				"wednesday": "10AM - 6:30PM",
-				"thursday": "10AM - 6:30PM",
-				"friday": "10AM - 6:30PM",
-				"saturday": "10AM - 6:30PM",
-				"sunday": "10AM - 6:30PM"
-			}
-		},
-		
-		{
-			"name": "Wind Rider Triple Zips",
-			"start_date": "1013",
-			"end_date": "1026",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/d826e31c65a042b7a83cff516360f7b6?v=43198b45",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/wind-rider-triple-zips",
-			"hours":{
-				"monday": "10AM - 6PM",
-				"tuesday": "10AM - 6PM",
-				"wednesday": "10AM - 6PM",
-				"thursday": "10AM - 6PM",
-				"friday": "10AM - 6PM",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-
-		{
-			"name": "Cocoon Crawl Playscape",
-			"start_date": "0929",
-			"end_date": "1012",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/c3850ec296384b87a09627249713183c?v=7420ddd4",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/cocoon-crawl",
-			"hours":{
-				"monday": "10AM - 6:30PM",
-				"tuesday": "10AM - 6:30PM",
-				"wednesday": "10AM - 6:30PM",
-				"thursday": "10AM - 6:30PM",
-				"friday": "10AM - 6:30PM",
-				"saturday": "10AM - 6:30PM",
-				"sunday": "10AM - 6:30PM"
-			}
-		},
-		
-		{
-			"name": "Cocoon Crawl Playscape",
-			"start_date": "1013",
-			"end_date": "1026",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/c3850ec296384b87a09627249713183c?v=7420ddd4",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/cocoon-crawl",
-			"hours":{
-				"monday": "10AM - 6PM",
-				"tuesday": "10AM - 6PM",
-				"wednesday": "10AM - 6PM",
-				"thursday": "10AM - 6PM",
-				"friday": "10AM - 6PM",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		{
-			"name": "Chutes & Loops Ball Run",
-			"start_date": "0929",
-			"end_date": "1012",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/3481afd71a3a44738ecf15d141ec3970?v=b64c8717",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/chutes-and-loops-ball-run",
-			"hours":{
-				"monday": "10AM - 6:30PM",
-				"tuesday": "10AM - 6:30PM",
-				"wednesday": "10AM - 6:30PM",
-				"thursday": "10AM - 6:30PM",
-				"friday": "10AM - 6:30PM",
-				"saturday": "10AM - 6:30PM",
-				"sunday": "10AM - 6:30PM"
-			}
-		},
-		
-		{
-			"name": "Chutes & Loops Ball Run",
-			"start_date": "1013",
-			"end_date": "1026",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/3481afd71a3a44738ecf15d141ec3970?v=b64c8717",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/chutes-and-loops-ball-run",
-			"hours":{
-				"monday": "10AM - 6PM",
-				"tuesday": "10AM - 6PM",
-				"wednesday": "10AM - 6PM",
-				"thursday": "10AM - 6PM",
-				"friday": "10AM - 6PM",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		{
-			"name": "Timber Challenge High Ropes",
-			"start_date": "0929",
-			"end_date": "1012",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/85c67ec254364805a43ebf678bbe8ad0?v=dc659029",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/timber-challenge-high-ropes",
-			"hours":{
-				"monday": "CLOSED",
-				"tuesday": "CLOSED",
-				"wednesday": "CLOSED",
-				"thursday": "CLOSED",
-				"friday": "CLOSED",
-				"saturday": "10AM - 6:30PM",
-				"sunday": "10AM - 6:30PM"
-			}
-		},
-		
-		{
-			"name": "Timber Challenge High Ropes",
-			"start_date": "1013",
-			"end_date": "1026",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/85c67ec254364805a43ebf678bbe8ad0?v=dc659029",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/timber-challenge-high-ropes",
-			"hours":{
-				"monday": "CLOSED",
-				"tuesday": "CLOSED",
-				"wednesday": "CLOSED",
-				"thursday": "CLOSED",
-				"friday": "CLOSED",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		{
-			"name": "Lumber Lanes Climbing Centre",
-			"start_date": "0929",
-			"end_date": "1012",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/6f23f3e3622b4309b7cbcae17c89e3e0?v=98fbafe2",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/lumber-lanes-climbing-centre",
-			"hours":{
-				"monday": "10AM - 6:30PM",
-				"tuesday": "10AM - 6:30PM",
-				"wednesday": "10AM - 6:30PM",
-				"thursday": "10AM - 6:30PM",
-				"friday": "10AM - 6:30PM",
-				"saturday": "10AM - 6:30PM",
-				"sunday": "10AM - 6:30PM"
-			}
-		},
-		
-		{
-			"name": "Lumber Lanes Climbing Centre",
-			"start_date": "1013",
-			"end_date": "1026",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/6f23f3e3622b4309b7cbcae17c89e3e0?v=98fbafe2",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/lumber-lanes-climbing-centre",
-			"hours":{
-				"monday": "10AM - 6PM",
-				"tuesday": "10AM - 6PM",
-				"wednesday": "10AM - 6PM",
-				"thursday": "10AM - 6PM",
-				"friday": "10AM - 6PM",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		{
-			"name": "AGORA: Path of Light",
-			"start_date": "0902",
-			"end_date": "1026",
-			"days_open": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/43507b9fe5dc4e67a7f9af804e5ff2e4?v=b3b3dd02",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/agora",
-			"hours":{
-				"monday": "8PM - 10PM",
-				"tuesday": "8PM - 10PM",
-				"wednesday": "8PM - 10PM",
-				"thursday": "8PM - 10PM",
-				"friday": "8PM - 11PM",
-				"saturday": "8PM - 11PM",
-				"sunday": "8PM - 10PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	
 		{
 			"name": "Cascade Putting Course",
-			"start_date": "0902",
-			"end_date": "1026",
+			"start_date": "1027",
+			"end_date": "1201",
 			"days_open": "open_daily",
 			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/93749d489ee94a35ba9f5606730ce402?v=69a2c0dc",
 			"page_url": "https://www.bluemountain.ca/things-to-do/activities/cascade-putting-course",
 			"hours":{
-				"monday": "10AM - 8PM",
-				"tuesday": "10AM - 8PM",
-				"wednesday": "10AM - 8PM",
-				"thursday": "10AM - 8PM",
-				"friday": "10AM - 8PM",
-				"saturday": "10AM - 8PM",
-				"sunday": "10AM - 8PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		{
-			"name": "Skywalk Challenge High Ropes",
-			"start_date": "0929",
-			"end_date": "1012",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/392b53745c834a42a49a49eb12da86da?v=8c096ef6",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/skywalk-challenge",
-			"hours":{
-				"monday": "10AM - 6:30PM",
-				"tuesday": "10AM - 6:30PM",
-				"wednesday": "10AM - 6:30PM",
-				"thursday": "10AM - 6:30PM",
-				"friday": "10AM - 6:30PM",
-				"saturday": "10AM - 6:30PM",
-				"sunday": "10AM - 6:30PM"
-			}
-		},
-		
-		{
-			"name": "Skywalk Challenge High Ropes",
-			"start_date": "1013",
-			"end_date": "1026",
-			"days_open": "daily",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/skywalk-challenge",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/392b53745c834a42a49a49eb12da86da?v=8c096ef6",
-			"hours":{
 				"monday": "10AM - 6PM",
 				"tuesday": "10AM - 6PM",
 				"wednesday": "10AM - 6PM",
@@ -456,91 +108,6 @@
 				"sunday": "10AM - 6PM"
 			}
 		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		{
-			"name": "Hiking",
-			"start_date": "0902",
-			"end_date": "1026",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/417e0d1c463e41f381fa76cd34818298?v=11f58c48",
-			"page_url": "https://www.bluemountain.ca/things-to-do/explore",
-			"hours":{
-				"monday": "10AM - 8PM",
-				"tuesday": "10AM - 8PM",
-				"wednesday": "10AM - 8PM",
-				"thursday": "10AM - 8PM",
-				"friday": "10AM - 8PM",
-				"saturday": "10AM - 8PM",
-				"sunday": "10AM - 8PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		{
-			"name": "Biking",
-			"start_date": "0902",
-			"end_date": "1026",
-			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/781186339e8140bcb4d2fa4a067cb71d?v=13d1d5cf",
-			"page_url": "https://www.bluemountain.ca/things-to-do/explore",
-			"hours":{
-				"monday": "10AM - 8PM",
-				"tuesday": "10AM - 8PM",
-				"wednesday": "10AM - 8PM",
-				"thursday": "10AM - 8PM",
-				"friday": "10AM - 8PM",
-				"saturday": "10AM - 8PM",
-				"sunday": "10AM - 8PM"
-			}
-		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-		{
-			"name": "Monterra Golf",
-			"start_date": "1001",
-			"end_date": "1101",
-			"days_open": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/17de0a46de264bd9974a5073fea1ba1d?v=02708236",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/monterra-golf",
-			"hours":{
-				"monday": "9AM - 4:30PM",
-				"tuesday": "9AM - 4:30PM",
-				"wednesday": "9AM - 4:30PM",
-				"thursday": "9AM - 4:30PM",
-				"friday": "9AM - 4:30PM",
-				"saturday": "9AM - 4:30PM",
-				"sunday": "9AM - 4:30PM"
-			}
-		}	
 	
 	]
 	
