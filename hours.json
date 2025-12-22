@@ -2,110 +2,164 @@
 	"activities": [
 		
 		{
-			"name": "Ridge Runner Mountain Coaster",
-			"start_date": "1027",
-			"end_date": "1109",
+			"name": "Skiing And SNowboarding",
+			"start_date": "1211",
+			"end_date": "0401",
 			"status": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/ridge-runner-coaster",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/ski-and-snowboard/bmr_fy23_attraction_web_hero_skisnowboard.png",
+			"page_url": "https://www.bluemountain.ca/things-to-do/skiing-and-snowboard",
 			"hours":{
-				"monday": "CLOSED",
-				"tuesday": "CLOSED",
-				"wednesday": "CLOSED",
-				"thursday": "CLOSED",
-				"friday": "CLOSED",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
+				"monday": "9AM - 9PM",
+				"tuesday": "9AM - 9PM",
+				"wednesday": "9AM - 9PM",
+				"thursday": "9AM - 9PM",
+				"friday": "9AM - 9PM",
+				"saturday": "9AM - 9PM",
+				"sunday": "9AM - 9PM"
 			}
 		},
 
 		{
 			"name": "Ridge Runner Mountain Coaster",
-			"start_date": "1110",
-			"end_date": "1201",
+			"start_date": "1213",
+			"end_date": "0322",
 			"status": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/f8e57335c3224ababcefce5c985380f4?v=824b9064",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/ridgerunner/bmr_fy23_attraction_web_hero_ridgerunner-winter.png",
 			"page_url": "https://www.bluemountain.ca/things-to-do/activities/ridge-runner-coaster",
 			"hours":{
-				"monday": "10AM - 6PM",
-				"tuesday": "10AM - 6PM",
-				"wednesday": "10AM - 6PM",
-				"thursday": "10AM - 6PM",
-				"friday": "10AM - 6PM",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
+				"monday": "12PM - 8PM",
+				"tuesday": "12PM - 8PM",
+				"wednesday": "12PM - 8PM",
+				"thursday": "12PM - 8PM",
+				"friday": "12PM - 8PM",
+				"saturday": "12PM - 8PM",
+				"sunday": "12PM - 8PM"
 			}
 		},
 		
 		{
 			"name": "Plunge! Aquatic Centre",
-			"start_date": "1027",
-			"end_date": "1031",
-			"status": "closed_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/1570a708b8e9482f9e44384deba64f7e?v=edbf03b9",
+			"start_date": "1219",
+			"end_date": "0104",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/c0928a897c5d44208f7560a97365b815?v=55fa6451&t=w1024",
 			"page_url": "https://www.bluemountain.ca/things-to-do/activities/plunge-aquatic-centre",
 			"hours":{
-				"monday": "CLOSED",
-				"tuesday": "CLOSED",
-				"wednesday": "CLOSED",
-				"thursday": "CLOSED",
-				"friday": "CLOSED",
-				"saturday": "CLOSED",
-				"sunday": "CLOSED"
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
 			}
 		},
 
 		{
 			"name": "Plunge! Aquatic Centre",
-			"start_date": "1101",
-			"end_date": "1215",
-			"status": "closed_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/1570a708b8e9482f9e44384deba64f7e?v=edbf03b9",
+			"start_date": "1219",
+			"end_date": "0104",
+			"status": "open_daily",
+			"image_url": "https://amc-p-001.sitecorecontenthub.cloud:443/api/public/content/c0928a897c5d44208f7560a97365b815?v=55fa6451&t=w1024",
 			"page_url": "https://www.bluemountain.ca/things-to-do/activities/plunge-aquatic-centre",
 			"hours":{
-				"monday": "CLOSED",
-				"tuesday": "CLOSED",
-				"wednesday": "CLOSED",
-				"thursday": "CLOSED",
-				"friday": "10AM - 6PM",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
+				"monday": "10AM - 5PM",
+				"tuesday": "4PM - 8PM",
+				"wednesday": "4PM - 8PM",
+				"thursday": "4PM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
 			}
 		},
 		
 		{
 			"name": "Canopy Climb Net Adventure",
-			"start_date": "1027",
-			"end_date": "1201",
+			"start_date": "1220",
+			"end_date": "0104",
 			"days_open": "daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/58bfaf76ac33401ca19305b83149e33d?v=1dea87fa",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-12-21-blue-mountain-canopy-climb-20.jpg",
 			"page_url": "https://www.bluemountain.ca/things-to-do/activities/canopy-climb",
 			"hours":{
-				"monday": "10AM - 6PM",
-				"tuesday": "10AM - 6PM",
-				"wednesday": "10AM - 6PM",
-				"thursday": "10AM - 6PM",
-				"friday": "10AM - 6PM",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
 			}
 		},
-	
+
 		{
-			"name": "Cascade Putting Course",
-			"start_date": "1027",
-			"end_date": "1201",
-			"days_open": "open_daily",
-			"image_url": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/93749d489ee94a35ba9f5606730ce402?v=69a2c0dc",
-			"page_url": "https://www.bluemountain.ca/things-to-do/activities/cascade-putting-course",
+			"name": "Big Dipper Snow Tubing",
+			"start_date": "1222",
+			"end_date": "0105",
+			"days_open": "daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-01-19-blue-mountain-hike-n-tube-20.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/big-dipper-snow-tubing",
 			"hours":{
-				"monday": "10AM - 6PM",
-				"tuesday": "10AM - 6PM",
-				"wednesday": "10AM - 6PM",
-				"thursday": "10AM - 6PM",
-				"friday": "10AM - 6PM",
-				"saturday": "10AM - 6PM",
-				"sunday": "10AM - 6PM"
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Big Dipper Snow Tubing",
+			"start_date": "0106",
+			"end_date": "0301",
+			"days_open": "daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/2023-01-19-blue-mountain-hike-n-tube-20.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/big-dipper-snow-tubing",
+			"hours":{
+				"monday": "12PM - 8PM",
+				"tuesday": "12PM - 8PM",
+				"wednesday": "12PM - 8PM",
+				"thursday": "12PM - 8PM",
+				"friday": "12PM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Woodview Mountaintop Skating",
+			"start_date": "1220",
+			"end_date": "0104",
+			"days_open": "daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/woodview-skating/bmr_fy23_attraction_web_hero_woodview.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/woodview-mountaintop-skating",
+			"hours":{
+				"monday": "10AM - 8PM",
+				"tuesday": "10AM - 8PM",
+				"wednesday": "10AM - 8PM",
+				"thursday": "10AM - 8PM",
+				"friday": "10AM - 8PM",
+				"saturday": "10AM - 8PM",
+				"sunday": "10AM - 8PM"
+			}
+		},
+
+		{
+			"name": "Snowshoeing",
+			"start_date": "1209",
+			"end_date": "0401",
+			"days_open": "daily",
+			"image_url": "https://www.bluemountain.ca/-/media/blue-mountain/2400x1350/things-to-do/attractions/snowshoeing/bmr_fy23_attraction_web_hero_snowshoe_access.jpg",
+			"page_url": "https://www.bluemountain.ca/things-to-do/activities/snowshoeing",
+			"hours":{
+				"monday": "8:30AM - 4PM",
+				"tuesday": "8:30AM - 4PM",
+				"wednesday": "8:30AM - 4PM",
+				"thursday": "8:30AM - 4PM",
+				"friday": "8:30AM - 4PM",
+				"saturday": "8:30AM - 4PM",
+				"sunday": "8:30AM - 4PM"
 			}
 		}
 	
